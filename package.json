@@ -1,0 +1,23 @@
+{
+  "name": "javascript_interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tiran Praneeth <tiranpraneeth@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "submit": "node _utils/submit.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "archiver": "^3.1.1",
+    "babel-jest": "^24.9.0",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "jest": "^28.0.2",
+    "jest-cli": "^28.0.3",
+    "jest-silent-reporter": "^0.1.2",
+    "open": "^6.4.0"
+  }
+}
