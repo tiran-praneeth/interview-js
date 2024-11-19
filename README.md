@@ -7,15 +7,23 @@ Look at test cases to help clarify questions.
 
 ### Getting Started
 1. Fork this repo
-2. Install dependencies using `npm`  or `yarn` 
+2. Install dependencies using `npm`  or `yarn`  
 3. Follow the directions for all questions in the `/questions`  folder
 4. Update each of those files with your code
 5. Verify your solutions by running `npm test` 
 ### Submitting Answers
 1. Once complete, you can run `npm run submit`  to create a compressed (zipped) file
-2. This will generate a zipped file: `dist/<name>-<date>.zip` 
+2. This will generate a zipped file: `dist/<name>-<date>.zip`  
 3. Send your git repo link and zip file as an attachment
+![Submitting Answers](/.eraser/MsLK8jBXABt7WRTE8lbO___EfrslFfWVQZj3JR2TRF7SIVCB8X2___---figure---3PCuPyJ7V4SZZvs9Xaqgb---figure---WyhZmpNYQzjsRzmFm0kJDg.png "Submitting Answers")
 
 
 
+
+<!-- eraser-additional-content -->
+## Diagrams
+<!-- eraser-additional-files -->
+<a href="/README-Submission Process-1.eraserdiagram" data-element-id="BHZvKd68xfVCtSaPSZARv"><img src="/.eraser/MsLK8jBXABt7WRTE8lbO___EfrslFfWVQZj3JR2TRF7SIVCB8X2___---diagram----3189d13ae933f7c7575bbd3fd86750fd-Submission-Process.png" alt="" data-element-id="BHZvKd68xfVCtSaPSZARv" /></a>
+<!-- end-eraser-additional-files -->
+<!-- end-eraser-additional-content -->
 <!--- Eraser file: https://app.eraser.io/workspace/MsLK8jBXABt7WRTE8lbO --->

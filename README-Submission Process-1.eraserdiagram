@@ -1,0 +1,13 @@
+flowchart-diagram
+
+title Submission Process
+
+// Define nodes and relationships "A > B"
+// Set shape and icon properties in "[]"
+// Add labels to relationships after ":"
+Start [shape: oval, icon: play] > Run npm command [icon: terminal]
+Run npm command > Generate zip file [icon: file-zip]
+Generate zip file > Send git repo link [icon: link]
+Send git repo link > Attach zip file [icon: paperclip]
+Attach zip file > End [shape: oval, icon: check-square]
+
